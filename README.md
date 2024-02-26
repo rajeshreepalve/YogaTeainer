@@ -1,1 +1,1 @@
-# YogaTeainer
+# YogaTrainer
